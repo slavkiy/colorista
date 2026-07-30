@@ -26,7 +26,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/rp1s/colorista"
+	"github.com/slavkiy/colorista"
 )
 
 func main() {
