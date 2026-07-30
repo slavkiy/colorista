@@ -1,3 +1,3 @@
-module github.com/rp1s/colorista
+module github.com/slavkiy/colorista
 
 go 1.25.6

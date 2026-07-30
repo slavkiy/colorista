@@ -1,5 +1,5 @@
+<p align="center"><img src="assets/art.png" alt="art" width="370"></p>
 
-# Colorista
 
 Небольшая Go-библиотека для работы с цветами и градиентами в терминале.
 
